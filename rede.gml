@@ -2,26 +2,30 @@ graph [
     directed 0
 
     node [
-        id 0
-        name "eua"
+        id "eua"
+        label "eua"
+
         betwenness 321
         closeness 4525
     ]
     node [
-        id 1
-        name "japao"
+        id "japao"
+        label "japao"
+
         betwenness 43252
         closeness 1243126
     ]
     node [
-        id 2
-        name "brasil"
+        id "brasil"
+        label "brasil"
+
         betwenness 1234125
         closeness 1245434
     ]
     node [
-        id 3
-        name "coreia do norte"
+        id "coreia do norte"
+        label "coreia do norte"
+
         betwenness 4123542
         closeness 5341532
     ]
