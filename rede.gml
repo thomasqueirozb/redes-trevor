@@ -28,31 +28,16 @@ graph [
     edge [
         source "eua"
         target "japao"
-        weight "34"
+        weight 34
     ]
     edge [
         source "eua"
         target "brasil"
-        weight "413"
-    ]
-    edge [
-        source "eua"
-        target "coreia do norte"
-        weight "0"
+        weight 413
     ]
     edge [
         source "japao"
         target "brasil"
-        weight "1243"
-    ]
-    edge [
-        source "japao"
-        target "coreia do norte"
-        weight "0"
-    ]
-    edge [
-        source "brasil"
-        target "coreia do norte"
-        weight "0"
+        weight 1243
     ]
 ]
