@@ -4,30 +4,22 @@ graph [
     node [
         id "eua"
         label "eua"
-
-        betwenness 321
-        closeness 4525
+        lingua "ingles"
     ]
     node [
         id "japao"
         label "japao"
-
-        betwenness 43252
-        closeness 1243126
+        lingua "japones"
     ]
     node [
         id "brasil"
         label "brasil"
-
-        betwenness 1234125
-        closeness 1245434
+        lingua "portugues"
     ]
     node [
         id "coreia do norte"
         label "coreia do norte"
-
-        betwenness 4123542
-        closeness 5341532
+        lingua "coreano"
     ]
     edge [
         source "eua"
