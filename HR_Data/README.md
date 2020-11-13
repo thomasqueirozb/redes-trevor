@@ -1,2 +1,0 @@
-Esta pasta contém os dados do novo dataset utilizado e um notebook que o explora.
-O dataset não tem informações suficientes para montar a rede original, mas há uma regressão logística simples que mostra a relação das variáveis em questão.
