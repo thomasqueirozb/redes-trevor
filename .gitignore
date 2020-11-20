@@ -1,5 +1,5 @@
 .ipynb_checkpoints/
 src/
 csv/
-ufc.gml
+*.gml
 freeman/__pycache__/
