@@ -2,4 +2,5 @@
 src/
 csv/
 *.gml
+/__pycache__/
 freeman/__pycache__/
